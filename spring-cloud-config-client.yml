@@ -1,5 +1,5 @@
 my:
-  greeting: Hello master loading from config server updated!!
+  greeting: Hello master loading from config server updated version1!!
   list:
     values: One,Two,Three,Four
 
