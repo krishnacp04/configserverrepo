@@ -1,0 +1,11 @@
+my:
+  greeting: Hello master loading from config server updated!!
+  list:
+    values: One,Two,Three,Four
+
+mapValues: "{1:'One',2: 'Two',3:'Three',4:'Four'}"
+
+db:
+  hostname: test-config-server
+  username: testuserconfig
+  password: pwd
